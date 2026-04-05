@@ -119,14 +119,5 @@ B.N. College of Engineering and Technology
 
 ---
 
-## 🔥 Badges & Fun Stuff  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ektasigh987&label=Profile%20Views&color=ff69b4&style=for-the-badge)
-
-![Followers](https://img.shields.io/github/followers/Ektasigh987?label=Followers&logo=github&style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/Ektasigh987?affiliations=OWNER%2CCOLLABORATOR&label=Stars&logo=github&style=for-the-badge)
-
----
 
 ⭐️ From Ekta Singh
