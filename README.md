@@ -45,7 +45,7 @@ Git | GitHub | Android Studio | VS Code | Postman
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟  Projects  
 
 ### 🛒 QuickUp – Hyperlocal Delivery Platform  
 - Built a Blinkit-inspired delivery app with **10–15 minute delivery model**  
@@ -121,11 +121,11 @@ B.N. College of Engineering and Technology
 
 ## 🔥 Badges & Fun Stuff  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Ektasigh987&label=Profile%20Views&color=ff69b4&style=for-the-badge)
 
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&logo=github&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Ektasigh987?label=Followers&logo=github&style=for-the-badge)
 
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&label=Stars&logo=github&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Ektasigh987?affiliations=OWNER%2CCOLLABORATOR&label=Stars&logo=github&style=for-the-badge)
 
 ---
 
